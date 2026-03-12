@@ -1,0 +1,5 @@
+{
+  "name": "Subastas Judiciales & RUAT Monitor",
+  "description": "Monitorea remates judiciales de vehículos en La Paz y consulta datos técnicos en el RUAT.",
+  "requestFramePermissions": []
+}
